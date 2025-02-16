@@ -21,9 +21,10 @@ Aquí encontrarás algunos de mis proyectos más importantes:
 
 ### 🔹 **Data Tools App**
 📌 **[Ver en GitHub](https://github.com/dashmonroy/Data-Tools-App)**\
-✅ Aplicación integral para análisis y automatización de datos.\
-✅ Herramientas avanzadas de procesamiento en Excel y Power BI.\
-✅ Flujos de trabajo optimizados con Power Automate.
+✅ Aplicación para **gestionar y convertir datos de manera eficiente**.\
+✅ **Conversión de archivos CSV a Excel** de forma rápida.\
+✅ **Compilación de múltiples archivos Excel** en una sola hoja o en hojas separadas.\
+✅ Interfaz gráfica intuitiva desarrollada con **PyQt6**.
 
 ---
 
@@ -45,7 +46,6 @@ Aquí encontrarás algunos de mis proyectos más importantes:
 
 ## 📫 Contacto
 📍 **Ubicación:** Colombia 🇨🇴\
-📧 **Email:** [Tu correo]\
 💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/ricardo-monroy-palacios-9b030b288/)
 
 📌 *Este perfil y sus proyectos reflejan mi experiencia en análisis de datos, automatización y geolocalización aplicada. ¡Siempre abierto a nuevas oportunidades y colaboraciones!* 🚀
