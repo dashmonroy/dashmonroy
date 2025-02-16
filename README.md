@@ -1,29 +1,51 @@
 # 👋 ¡Hola! Soy Ricardo Monroy  
 
 ## 🚀 Sobre Mí  
-Soy un **Analista de Datos y Especialista en GIS** con experiencia en **Power BI, Python y SQL**.  
-Me especializo en **optimización de procesos, automatización y análisis geoespacial** para la toma de decisiones en el sector telecomunicaciones.
+Soy un **Analista de Datos y Especialista en GIS** con experiencia en **Power BI, Power Automate, Power Apps, Excel Avanzado y Python**.  
+Me especializo en **automatización de procesos, desarrollo de soluciones empresariales y análisis geoespacial** para la toma de decisiones en sectores como telecomunicaciones y negocios.  
 
 📊 **Habilidades Destacadas:**  
 - 🔍 **Análisis de Datos** con Python, SQL y Excel avanzado  
-- 📡 **Optimización de Indicadores** en telecomunicaciones  
-- 🗺️ **Análisis Geoespacial (GIS)** con GeoPandas y Power BI  
-- 🤖 **Automatización de Procesos** en datos y reportes  
-- 📊 **Visualización de Datos** en Power BI, Dashboards y Reportes Ejecutivos  
+- 🏢 **Automatización de Procesos con Power Automate y Python**  
+- 🏗️ **Desarrollo de Aplicaciones Empresariales en Power Apps**  
+- 🗺️ **Análisis Geoespacial (GIS) con GeoPandas y Power BI**  
+- 📊 **Visualización de Datos y Dashboards Interactivos en Power BI**  
+
+---
 
 ## 💼 Portafolio de Proyectos  
 Aquí encontrarás algunos de mis proyectos más importantes:  
 
-### 🔹 **Power BI & GIS: Análisis Geográfico de Datos**
-📌 **[DashGeoDate](https://github.com/dashmonroy/DashGeoDate)**  
-✅ Métodos correctos para visualizar datos geográficos en Power BI  
-✅ Uso de coordenadas, ciudades y departamentos para mejorar precisión  
+### 🔹 **Data Tools App**  
+📌 **[Ver en GitHub](https://github.com/dashmonroy/Data-Tools-App)**  
+![Miniatura del Proyecto](https://github.com/dashmonroy/Data-Tools-App/raw/main/preview.png)  
+✅ Aplicación integral para análisis y automatización de datos.  
+✅ Herramientas avanzadas de procesamiento en Excel y Power BI.  
+✅ Flujos de trabajo optimizados con Power Automate.  
 
-### 🔹 **Aplicaciones de Datos Geoespaciales**
-📌 **[GeoCuadrantesApp](https://github.com/dashmonroy/GeoCuadrantesApp)**  
-✅ Asignación automática de cuadrantes basada en datos GIS  
-✅ Integración de Excel, KMZ y mapas interactivos  
+---
+
+### 🔹 **GeoCuadrantesApp**  
+📌 **[Ver en GitHub](https://github.com/dashmonroy/GeoCuadrantesApp)**  
+![Miniatura del Proyecto](https://github.com/dashmonroy/GeoCuadrantesApp/raw/main/preview.png)  
+✅ Aplicación para asignación automática de cuadrantes geoespaciales.  
+✅ Integración con datos GIS y mapas interactivos.  
+✅ Procesamiento de archivos Excel y KMZ para análisis territorial.  
+
+---
+
+### 🔹 **DashGeoDate**  
+📌 **[Ver en GitHub](https://github.com/dashmonroy/DashGeoDate)**  
+![Miniatura del Proyecto](https://github.com/dashmonroy/DashGeoDate/raw/main/preview.png)  
+✅ Métodos correctos para visualizar datos geográficos en Power BI.  
+✅ Uso de coordenadas, ciudades y departamentos para mejorar precisión.  
+✅ Comparación entre diferentes métodos de representación geográfica.  
+
+---
 
 ## 📫 Contacto  
 📍 **Ubicación:** Colombia 🇨🇴    
-💼 **LinkedIn:** [https://www.linkedin.com/in/ricardo-monroy-palacios-9b030b288/]  
+💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/ricardo-monroy-palacios-9b030b288/)  
+
+📌 *Este perfil y sus proyectos reflejan mi experiencia en análisis de datos, automatización y geolocalización aplicada. ¡Siempre abierto a nuevas oportunidades y colaboraciones!* 🚀
+
